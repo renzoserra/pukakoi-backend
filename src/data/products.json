@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "00001",
+    "name": "Gyosas (6 unidades)",
+    "price": 6000,
+    "description": "Empanaditas japonesas rellenas jugosas y sazonadas con especias orientales, cocidas al vapor y doradas a la plancha para un toque crujiente",
+    "image": "images/Gyosas.webp",
+    "category": "gyosas"
+  },
+  {
+    "id": "00002",
+    "name": "Gyosas (12 unidades)",
+    "price": 11000,
+    "description": "Empanaditas japonesas rellenas jugosas y sazonadas con especias orientales, cocidas al vapor y doradas a la plancha para un toque crujiente",
+    "image": "images/Gyosas.webp",
+    "category": "gyosas"
+  },
+  {
+    "id": "00003",
+    "name": "Tiradito Salmón Nikkei",
+    "price": 12000,
+    "description": "Láminas finas de pescado, bañadas con salsa ponzu",
+    "image": "assets/images/placeholder.webp",
+    "category": "tiraditos"
+  },
+  {
+    "id": "00004",
+    "name": "Tiradito Atún Acevichado",
+    "price": 12000,
+    "description": "Láminas finas de pescado, bañadas con leche de tigre y togarash",
+    "image": "images/TiraditoAtunAcevichado.webp",
+    "category": "tiraditos"
+  },
+  {
+    "id": "00005",
+    "name": "Tiradito Pulpo al Olivo",
+    "price": 10000,
+    "description": "Láminas finas de pescado, bañadas con ponzu, limón y aceite de oliva",
+    "image": "assets/images/placeholder.webp",
+    "category": "tiraditos"
+  },
+  {
+    "id": "00006",
+    "name": "Tiradito Pescado Blanco al Ají Amarillo",
+    "price": 10000,
+    "description": "Láminas finas de pescado, bañadas con toques de soya y limón",
+    "image": "assets/images/placeholder.webp",
+    "category": "tiraditos"
+  },
+  {
+    "id": "00007",
+    "name": "Ceviche Nikkei",
+    "price": 13500,
+    "description": "Pescado y camarones en crema de coco con un toque de sésamo",
+    "image": "images/CevicheNikkei.webp",
+    "category": "ceviches"
+  },
+  {
+    "id": "00008",
+    "name": "Temaki Pescado Blanco & Camarón Furay",
+    "price": 5000,
+    "description": "Conos de alga nori rellenos con palta y salsa acevichada nikkei",
+    "image": "assets/images/placeholder.webp",
+    "category": "temakis"
+  },
+  {
+    "id": "00009",
+    "name": "Temaki Salmón Nikkei",
+    "price": 4500,
+    "description": "Conos de alga nori rellenos con palta, masago y kiuri",
+    "image": "assets/images/placeholder.webp",
+    "category": "temakis"
+  },
+  {
+    "id": "00010",
+    "name": "Temaki Atún Nikkei",
+    "price": 4500,
+    "description": "Conos de alga nori rellenos con palta suave y kiuri crocante",
+    "image": "assets/images/placeholder.webp",
+    "category": "temakis"
+  },
+  {
+    "id": "00011",
+    "name": "Sashimi de Salmón (4 unidades)",
+    "price": 7000,
+    "description": "Cortes seleccionados, servidos al natural para resaltar su textura y sabor puro. Todos acompañados con jengibre encurtido y wasabi.",
+    "image": "assets/images/placeholder.webp",
+    "category": "sashimi"
+  },
+  {
+    "id": "00012",
+    "name": "Sashimi de Atún Tataki (4 unidades)",
+    "price": 6500,
+    "description": "Cortes seleccionados, servidos al natural para resaltar su textura y sabor puro. Todos acompañados con jengibre encurtido y wasabi.",
+    "image": "assets/images/placeholder.webp",
+    "category": "sashimi"
+  },
+  {
+    "id": "00013",
+    "name": "Sashimi de Camarón (4 unidades)",
+    "price": 6000,
+    "description": "Cortes seleccionados, servidos al natural para resaltar su textura y sabor puro. Todos acompañados con jengibre encurtido y wasabi.",
+    "image": "assets/images/placeholder.webp",
+    "category": "sashimi"
+  },
+  {
+    "id": "00014",
+    "name": "Sashimi de Pulpo (4 unidades)",
+    "price": 6500,
+    "description": "Cortes seleccionados, servidos al natural para resaltar su textura y sabor puro. Todos acompañados con jengibre encurtido y wasabi.",
+    "image": "assets/images/placeholder.webp",
+    "category": "sashimi"
+  },
+  {
+    "id": "00015",
+    "name": "Sashimi de Pescado Blanco (4 unidades)",
+    "price": 4500,
+    "description": "Cortes seleccionados, servidos al natural para resaltar su textura y sabor puro. Todos acompañados con jengibre encurtido y wasabi.",
+    "image": "assets/images/placeholder.webp",
+    "category": "sashimi"
+  },
+  {
+    "id": "00016",
+    "name": "Tartar de Salmón",
+    "price": 7700,
+    "description": "Dados frescos sobre palta, brotes de alfalfa y wantán frito, con salsa Ponzu.",
+    "image": "assets/images/placeholder.webp",
+    "category": "tartar"
+  },
+  {
+    "id": "00017",
+    "name": "Tartar de Atún",
+    "price": 7000,
+    "description": "Dados frescos sobre palta, brotes de alfalfa y wantán frito, con salsa Ponzu.",
+    "image": "assets/images/placeholder.webp",
+    "category": "tartar"
+  },
+  {
+    "id": "00018",
+    "name": "Hosomaki de Salmón",
+    "price": 5000,
+    "description": "6 Rollitos delgados de arroz sazonado y alga nori, rellenos de ingredientes frescos.",
+    "image": "assets/images/placeholder.webp",
+    "category": "hosomaki"
+  },
+  {
+    "id": "00019",
+    "name": "Hosomaki de Atún",
+    "price": 5000,
+    "description": "6 Rollitos delgados de arroz sazonado y alga nori, rellenos de ingredientes frescos.",
+    "image": "assets/images/placeholder.webp",
+    "category": "hosomaki"
+  },
+  {
+    "id": "00020",
+    "name": "Hosomaki de Camarón",
+    "price": 5000,
+    "description": "6 Rollitos delgados de arroz sazonado y alga nori, rellenos de ingredientes frescos.",
+    "image": "assets/images/placeholder.webp",
+    "category": "hosomaki"
+  },
+  {
+    "id": "00021",
+    "name": "Hosomaki de Pulpo",
+    "price": 5000,
+    "description": "6 Rollitos delgados de arroz sazonado y alga nori, rellenos de ingredientes frescos.",
+    "image": "assets/images/placeholder.webp",
+    "category": "hosomaki"
+  },
+  {
+    "id": "00022",
+    "name": "Gunkan de Pulpo Acevichado",
+    "price": 3000,
+    "description": "Bocados de arroz envueltos en alga nori, coronados con frescos tartares y salsas al estilo nikkei.",
+    "image": "assets/images/placeholder.webp",
+    "category": "gunkan"
+  },
+  {
+    "id": "00023",
+    "name": "Gunkan de Salmón Maracuyá",
+    "price": 3000,
+    "description": "Bocados de arroz envueltos en alga nori, coronados con frescos tartares y salsas al estilo nikkei.",
+    "image": "assets/images/placeholder.webp",
+    "category": "gunkan"
+  },
+  {
+    "id": "00024",
+    "name": "Gunkan de Atún Acevichado",
+    "price": 3000,
+    "description": "Bocados de arroz envueltos en alga nori, coronados con frescos tartares y salsas al estilo nikkei.",
+    "image": "assets/images/placeholder.webp",
+    "category": "gunkan"
+  },
+  {
+    "id": "00025",
+    "name": "Maki Tempura",
+    "price": 7000,
+    "description": "Roll tempurizado de salmón, palta y kiuri, con nori por fuera y una cobertura crocante",
+    "image": "assets/images/placeholder.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00026",
+    "name": "Maki Pollo",
+    "price": 7000,
+    "description": "Roll tempurizado relleno de pollo, palta y queso, envuelto en arroz y nori",
+    "image": "assets/images/placeholder.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00027",
+    "name": "Maki Furai",
+    "price": 7800,
+    "description": "Roll empanizado y frito al estilo japonés, con relleno de salmón, palta y kiuri.",
+    "image": "assets/images/placeholder.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00028",
+    "name": "Vegui Maki",
+    "price": 7200,
+    "description": "Roll relleno de atún (maguro) y kiuri, envuelto en arroz y alga nori, con cobertura de atún",
+    "image": "assets/images/placeholder.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00029",
+    "name": "Maki Pasión",
+    "price": 8000,
+    "description": "Relleno de camarón, queso y tenkasu (crocantes de tempura), cubierto con láminas de salmón, rodajas de limón y salsa Pasión Sos",
+    "image": "images/MakiPasion.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00030",
+    "name": "Maki Pulpo al Olivo",
+    "price": 10990,
+    "description": "Relleno con pulpo al panko y palta,  envuelto en arroz y nori, coronado con pulpo al olivo",
+    "image": "assets/images/placeholder.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00031",
+    "name": "Maki Pulpo a la Parrilla",
+    "price": 10990,
+    "description": "Relleno con camarón y palta, envuelto en arroz,nori y palta coronado con pulpo anticuchero",
+    "image": "images/PulpoALaParrilla.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00032",
+    "name": "Saltado Maki",
+    "price": 10990,
+    "description": "Relleno con bastones de lomo, coronado con trozos de lomo y papas al hilo",
+    "image": "images/SaltadoMaki.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00033",
+    "name": "Ceviche Maki",
+    "price": 10990,
+    "description": "Relleno con queso crema y camarón furai, envuelto con palta y coronado con ceviche de pescado y camote al hilo ",
+    "image": "images/CevicheMaki.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00034",
+    "name": "Acevichado Maki",
+    "price": 7500,
+    "description": "Relleno de camarón y palta, cubierto con finas láminas de atún fresco y salsa acevichada",
+    "image": "images/MakiAcevichado.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00035",
+    "name": "Maguro Maki",
+    "price": 7200,
+    "description": "Roll relleno de atún (maguro) y kiuri, envuelto en arroz y alga nori, con cobertura de atún",
+    "image": "assets/images/placeholder.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00036",
+    "name": "Volcano Maki",
+    "price": 8000,
+    "description": "Roll relleno de camarón y kiuri, envuelto en finas láminas de palta y bañado en nuestra salsa Volcano, decorado con sésamo tostado",
+    "image": "assets/images/placeholder.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00037",
+    "name": "Torimaki",
+    "price": 7000,
+    "description": "Roll tempurizado de salmón, palta y kiuri, con nori por fuera y una cobertura crocante",
+    "image": "assets/images/placeholder.webp",
+    "category": "urumaki"
+  },
+  {
+    "id": "00038",
+    "name": "Yasaitame Camarón",
+    "price": 13500,
+    "description": "Salteado al wok con vegetales y arroz blanco o gohan",
+    "image": "images/YasaitameCamaron.webp",
+    "category": "yasaitame"
+  },
+  {
+    "id": "00039",
+    "name": "Yasaitame Pescado",
+    "price": 13000,
+    "description": "Salteado al wok con vegetales y arroz blanco o gohan",
+    "image": "assets/images/placeholder.webp",
+    "category": "yasaitame"
+  },
+  {
+    "id": "00040",
+    "name": "Yasaitame Carne",
+    "price": 13000,
+    "description": "Salteado al wok con vegetales y arroz blanco o gohan",
+    "image": "assets/images/placeholder.webp",
+    "category": "yasaitame"
+  },
+  {
+    "id": "00041",
+    "name": "Yasaitame Pollo",
+    "price": 12500,
+    "description": "Salteado al wok con vegetales y arroz blanco o gohan",
+    "image": "assets/images/placeholder.webp",
+    "category": "yasaitame"
+  },
+  {
+    "id": "00042",
+    "name": "Yakisoba Pollo",
+    "price": 9500,
+    "description": "Fideos salteados al wok con vegetales y salsa tonkatsu japonesa.",
+    "image": "images/YakisobaPollo.webp",
+    "category": "yakisoba"
+  },
+  {
+    "id": "00043",
+    "name": "Yakisoba Carne",
+    "price": 9500,
+    "description": "Fideos salteados al wok con vegetales y salsa tonkatsu japonesa.",
+    "image": "assets/images/placeholder.webp",
+    "category": "yakisoba"
+  },
+  {
+    "id": "00044",
+    "name": "Yakisoba Camarón",
+    "price": 10000,
+    "description": "Fideos salteados al wok con vegetales y salsa tonkatsu japonesa.",
+    "image": "assets/images/placeholder.webp",
+    "category": "yakisoba"
+  },
+  {
+    "id": "00045",
+    "name": "Yakimeshi Pollo",
+    "price": 9000,
+    "description": "Arroz salteado al wok con cebollín, pimentón, shitake y huevo.",
+    "image": "assets/images/placeholder.webp",
+    "category": "yakimeshi"
+  },
+  {
+    "id": "00046",
+    "name": "Yakimeshi Carne",
+    "price": 9500,
+    "description": "Arroz salteado al wok con cebollín, pimentón, shitake y huevo.",
+    "image": "assets/images/placeholder.webp",
+    "category": "yakimeshi"
+  },
+  {
+    "id": "00047",
+    "name": "Yakimeshi Camarón",
+    "price": 10000,
+    "description": "Arroz salteado al wok con cebollín, pimentón, shitake y huevo.",
+    "image": "assets/images/placeholder.webp",
+    "category": "yakimeshi"
+  },
+  {
+    "id": "00048",
+    "name": "Ramen Pollo",
+    "price": 8500,
+    "description": "Caldo casero con fideos, pollo sellado, huevo cocido, champiñones, brócoli, zanahorias, brotes de soya y cebollín con sésamo.",
+    "image": "images/RamenPollo.webp",
+    "category": "ramen"
+  },
+  {
+    "id": "00049",
+    "name": "Ramen Carne",
+    "price": 8500,
+    "description": "Caldo casero con fideos, carne sellada, huevo cocido, champiñones, brócoli, zanahorias, brotes de soya y cebollín con sésamo.",
+    "image": "images/RamenCarne.webp",
+    "category": "ramen"
+  },
+  {
+    "id": "00050",
+    "name": "Ramen Cerdo",
+    "price": 8500,
+    "description": "Caldo casero con fideos, cerdo sellado, huevo cocido, champiñones, brócoli, zanahorias, brotes de soya y cebollín con sésamo.",
+    "image": "images/RamenCerdo.webp",
+    "category": "ramen"
+  },
+  {
+    "id": "00051",
+    "name": "Poke Bowl Pollo",
+    "price": 7000,
+    "description": "Base de arroz gohan con palta, crocante, sésamo tostado y wakame",
+    "image": "assets/images/placeholder.webp",
+    "category": "pokebowls"
+  },
+  {
+    "id": "00052",
+    "name": "Poke Bowl Carne",
+    "price": 8000,
+    "description": "Base de arroz gohan con palta fresca y diente de dragón",
+    "image": "assets/images/placeholder.webp",
+    "category": "pokebowls"
+  },
+  {
+    "id": "00053",
+    "name": "Poke Bowl Ebi (Camarón)",
+    "price": 8500,
+    "description": "Base de arroz gohan con palta, wantán frito, zanahoria y betarraga",
+    "image": "assets/images/placeholder.webp",
+    "category": "pokebowls"
+  },
+  {
+    "id": "00054",
+    "name": "Poke Bowl Salmón Furay",
+    "price": 8500,
+    "description": "Base de arroz gohan con palta, crocante, sésamo y wakame",
+    "image": "assets/images/placeholder.webp",
+    "category": "pokebowls"
+  },
+  {
+    "id": "00055",
+    "name": "Tempura de Camarón (5 unidades)",
+    "price": 7500,
+    "description": "Crujientes por fuera, jugosos por dentro. Acompañados de salsa acevichada",
+    "image": "images/TempuraDeCamaron5Unidades.webp",
+    "category": "tempuras"
+  },
+  {
+    "id": "00056",
+    "name": "Tempura de Pescado Blanco (5 unidades)",
+    "price": 6000,
+    "description": "Crujientes por fuera, jugosos por dentro. Acompañados de salsa acevichada",
+    "image": "assets/images/placeholder.webp",
+    "category": "tempuras"
+  },
+  {
+    "id": "00057",
+    "name": "Chicken Teriyaki",
+    "price": 8000,
+    "description": "Chicken Teriyaki — con verduras salteadas y arroz blanco",
+    "image": "assets/images/placeholder.webp",
+    "category": "pollo"
+  },
+  {
+    "id": "00058",
+    "name": "Chicken Katsu",
+    "price": 8000,
+    "description": "Chicken Katsu — empanizado japonés con ensalada de col",
+    "image": "assets/images/placeholder.webp",
+    "category": "pollo"
+  },
+  {
+    "id": "00059",
+    "name": "Alitas Acevichadas",
+    "price": 8500,
+    "description": "Cítricas, cremosas y atrevidas. Acompañadas con papas rústicas doradas",
+    "image": "assets/images/placeholder.webp",
+    "category": "alitas"
+  },
+  {
+    "id": "00060",
+    "name": "Alitas Búfalo",
+    "price": 8200,
+    "description": "Jugosas y picantes, estilo americano. Acompañadas con papas rústicas doradas",
+    "image": "assets/images/placeholder.webp",
+    "category": "alitas"
+  },
+  {
+    "id": "00061",
+    "name": "Alitas BBQ",
+    "price": 8000,
+    "description": "Glaseadas con toque ahumado. Acompañadas con papas rústicas doradas",
+    "image": "assets/images/placeholder.webp",
+    "category": "alitas"
+  },
+  {
+    "id": "00062",
+    "name": "Promo 1 – 24 cortes",
+    "price": 15000,
+    "description": "1 Panko (pollo, queso y cebollín), 1 Palta (camarón, queso y pimentón) y 1 Sésamo (pollo, queso y palta)",
+    "image": "assets/images/placeholder.webp",
+    "category": "promos"
+  },
+  {
+    "id": "00063",
+    "name": "Promo 2 – 32 cortes",
+    "price": 18000,
+    "description": "Panko 1 (pollo, queso y cebollín), Panko 2 (camarón, queso y pimentón), 1 Vegetariano (arroz, palta, champiñón y palmito) y 1 Queso (pollo, palta y ciboulette)",
+    "image": "images/Promo2-32Cortes.webp",
+    "category": "promos"
+  },
+  {
+    "id": "00064",
+    "name": "Promo 3 – 40 cortes",
+    "price": 22000,
+    "description": "1 Panko (pollo, queso y ciboulette), 1 Palta (camarón, queso y palta), 1 Panko (camarón, queso y pimentón), 1 Sésamo (pollo, queso y palta) y 1 Nori (queso y palta)",
+    "image": "assets/images/placeholder.webp",
+    "category": "promos"
+  },
+  {
+    "id": "00065",
+    "name": "Piqueo Puka Koi",
+    "price": 35000,
+    "description": "3 cortes de sashimi, 2 nigiri, 1 hosomaki de salmón, 2 urumakis (acevichados y furay al panko) y 6 camarones al panko",
+    "image": "images/PiqueoPukaKoi.webp",
+    "category": "promos"
+  },
+  {
+    "id": "00066",
+    "name": "Jugo de Naturales",
+    "price": 4000,
+    "description": "Opciones: Mango, Frambuesa, Chirimoya, Piña, Maracuyá",
+    "image": "images/JugosNaturales.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00067",
+    "name": "Copa de Limonada",
+    "price": 4000,
+    "description": "",
+    "image": "images/CopaDeLimonada.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00068",
+    "name": "Copa de Chicha Morada",
+    "price": 4500,
+    "description": "",
+    "image": "images/CopaDeChichaMorada.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00069",
+    "name": "Copa Menta Jengibre",
+    "price": 4500,
+    "description": "",
+    "image": "images/CopaMentaJengibre.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00070",
+    "name": "Té",
+    "price": 3000,
+    "description": "",
+    "image": "images/Te.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00071",
+    "name": "Café Espresso",
+    "price": 3000,
+    "description": "",
+    "image": "images/CafeEspresso.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00072",
+    "name": "Café Cortado",
+    "price": 3900,
+    "description": "",
+    "image": "images/CafeCortado.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00073",
+    "name": "Café Espresso Doble",
+    "price": 4500,
+    "description": "",
+    "image": "images/CafeEspresso.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00074",
+    "name": "Coca Cola, Fanta, Sprite o Ginger Ale",
+    "price": 2200,
+    "description": "",
+    "image": "images/BebidasSabores.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00075",
+    "name": "Inka Kola Gordita",
+    "price": 4900,
+    "description": "",
+    "image": "images/InkaKolaGordita.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00076",
+    "name": "Agua Mineral",
+    "price": 2600,
+    "description": "",
+    "image": "images/AguaMineral.webp",
+    "category": "bebida-sa"
+  },
+  {
+    "id": "00077",
+    "name": "Piscola",
+    "price": 5900,
+    "description": "",
+    "image": "images/Piscola.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00078",
+    "name": "Aperol",
+    "price": 7990,
+    "description": "",
+    "image": "images/Aperol.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00079",
+    "name": "Ramazzotti",
+    "price": 7990,
+    "description": "",
+    "image": "images/Aperol.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00080",
+    "name": "Copa de Sangría Clasica",
+    "price": 7990,
+    "description": "",
+    "image": "assets/images/placeholder.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00081",
+    "name": "Ron Cola",
+    "price": 5900,
+    "description": "",
+    "image": "images/Piscola.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00082",
+    "name": "Gin Tonic",
+    "price": 6900,
+    "description": "",
+    "image": "images/GinTonic.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00083",
+    "name": "Caipiriña",
+    "price": 6900,
+    "description": "",
+    "image": "images/Caipiriña.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00084",
+    "name": "Costillar BBQ",
+    "price": 13000,
+    "description": "Cerdo cocido lentamente, glaseado con salsa ahumada acompañado de papas rústicas doradas",
+    "image": "images/CostillarBBQ.webp",
+    "category": "costillar"
+  },
+  {
+    "id": "00085",
+    "name": "Costillar Teriyaki",
+    "price": 13000,
+    "description": "Cerdo cocido lentamente, bañado en salsa dulce-salada al estilo japonés acompañado de papas rústicas doradas",
+    "image": "assets/images/placeholder.webp",
+    "category": "costillar"
+  },
+  {
+    "id": "00086",
+    "name": "Tabernero (Quebranta) Sour clásico",
+    "price": 5000,
+    "description": "",
+    "image": "images/SourClasico.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00087",
+    "name": "Tabernero (Quebranta) Chilcano",
+    "price": 6500,
+    "description": "",
+    "image": "images/Chilcano.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00088",
+    "name": "Tabernero (Quebranta) Sour Catedral",
+    "price": 7500,
+    "description": "",
+    "image": "images/SourVaticano.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00089",
+    "name": "Tabernero (Quebranta) Vaticano",
+    "price": 10500,
+    "description": "",
+    "image": "images/SourVaticano.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00090",
+    "name": "Pancho Fierro Sour clásico",
+    "price": 6500,
+    "description": "",
+    "image": "images/SourClasico.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00091",
+    "name": "Pancho Fierro Sour Catedral",
+    "price": 9500,
+    "description": "",
+    "image": "images/SourVaticano.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00092",
+    "name": "Pancho Fierro Vaticano",
+    "price": 12500,
+    "description": "",
+    "image": "images/SourVaticano.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00093",
+    "name": "Sour de Fruta, Maracuyá o Mango - Sour clásico",
+    "price": 5500,
+    "description": "",
+    "image": "images/SourClasico.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00094",
+    "name": "Sour de Fruta, Maracuyá o Mango - Sour Catedral",
+    "price": 8000,
+    "description": "",
+    "image": "images/SourVaticano.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00095",
+    "name": "Sour de Fruta, Maracuyá o Mango - Vaticano",
+    "price": 11000,
+    "description": "",
+    "image": "images/SourVaticano.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00096",
+    "name": "Piña Sour - Sour clásico",
+    "price": 5000,
+    "description": "",
+    "image": "images/SourClasico.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00097",
+    "name": "Piña Sour - Sour Catedral",
+    "price": 8000,
+    "description": "",
+    "image": "images/SourVaticano.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00098",
+    "name": "Piña Sour - Vaticano",
+    "price": 11000,
+    "description": "",
+    "image": "images/SourVaticano.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "id": "00099",
+    "name": "Sour PUKA KOI",
+    "price": 8900,
+    "description": "Una perfecta combinación de TABERNERO acholado, combinado con fresco zumo de piña, frambuesa, gotas de limón de pica, jarabe de goma y aromatizamos con menta.",
+    "image": "assets/images/placeholder.webp",
+    "category": "bebida-ca"
+  },
+  {
+    "name": "Mojito clásico o sabores",
+    "price": 6900,
+    "description": "Variedad de sabores frutales",
+    "category": "bebida-ca",
+    "id": "00100",
+    "image": "images/Mojito.webp"
+  },
+  {
+    "name": "Chilcano Sabores",
+    "price": 6900,
+    "description": "Variedad de sabores frutales",
+    "category": "bebida-ca",
+    "id": "00101",
+    "image": "images/Chilcano.webp"
+  },
+  {
+    "name": "Caipiriña clásica o sabores",
+    "price": 6900,
+    "description": "Variedad de sabores frutales",
+    "category": "bebida-ca",
+    "id": "00102",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Caipiroska",
+    "price": 5900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00103",
+    "image": "images/Caipiriña.webp"
+  },
+  {
+    "name": "Piña Colada",
+    "price": 6900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00104",
+    "image": "images/PiñaColada.webp"
+  },
+  {
+    "name": "Primavera",
+    "price": 5900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00105",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Daiquiri Sabores",
+    "price": 5900,
+    "description": "Variedad de sabores frutales",
+    "category": "bebida-ca",
+    "id": "00106",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Amor en Llamas",
+    "price": 5900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00107",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Kir Royal",
+    "price": 6900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00108",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Gin Tonic",
+    "price": 6900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00109",
+    "image": "images/GinTonic.webp"
+  },
+  {
+    "name": "Tequila Margarita",
+    "price": 5900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00110",
+    "image": "images/TequilaMargarita.webp"
+  },
+  {
+    "name": "Algarrobina",
+    "price": 5900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00111",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Vaina",
+    "price": 5900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00112",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Martini",
+    "price": 5900,
+    "description": "",
+    "category": "bebida-ca",
+    "id": "00113",
+    "image": "images/Martini.webp"
+  },
+  {
+    "name": "Pasión Inca",
+    "price": 7900,
+    "description": "Tabernero, jugo de naranja, almíbar de piña, maracuyá y aromatizado con oleo",
+    "category": "bebida-ca",
+    "id": "00114",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Frutos del Bosque",
+    "price": 7900,
+    "description": "Ron Cartavio Select 8 años, triple sec, licor cassis, arándanos, jarabe de mora, frambuesa",
+    "category": "bebida-ca",
+    "id": "00115",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Andina Tonic",
+    "price": 7900,
+    "description": "Gin La República, zumo de limón, limoncello, naranja, agua tónica, cubos de infusión de pimienta rosa",
+    "category": "bebida-ca",
+    "id": "00116",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Caribeño",
+    "price": 7500,
+    "description": "Pisco, ron de coco, mix jugos (mango, naranja y limón)",
+    "category": "bebida-ca",
+    "id": "00117",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Dulce Sueños",
+    "price": 7500,
+    "description": "Ron rubio, licor de cacao, jugo de piña, jugo de maracuyá",
+    "category": "bebida-ca",
+    "id": "00118",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Alixer Ayar",
+    "price": 7500,
+    "description": "Pisco, Aperol, naranja, maracuyá, ginger ale",
+    "category": "bebida-ca",
+    "id": "00119",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "El Artillero",
+    "price": 7500,
+    "description": "Pisco, frutilla, manzana, vodka",
+    "category": "bebida-ca",
+    "id": "00120",
+    "image": "assets/images/placeholder.webp"
+  },
+  {
+    "name": "Johnny Walker Et. Roja (trago)",
+    "price": 6500,
+    "category": "bebida-ca",
+    "id": "00121",
+    "description": "",
+    "image": "images/JohnnyWalkerEtRoja.webp"
+  },
+  {
+    "name": "Jack Daniel’s Tennessee (trago)",
+    "price": 7500,
+    "category": "bebida-ca",
+    "id": "00122",
+    "description": "",
+    "image": "images/JackDanielsTennessee.webp"
+  },
+  {
+    "name": "Johnny Walker Et. Negra (trago)",
+    "price": 8600,
+    "category": "bebida-ca",
+    "id": "00123",
+    "description": "",
+    "image": "images/JohnnyWalkerEtNegra.webp"
+  },
+  {
+    "name": "Chivas Regal 12 años (trago)",
+    "price": 8600,
+    "category": "bebida-ca",
+    "id": "00124",
+    "description": "",
+    "image": "images/ChivasRegal12Anos.webp"
+  },
+  {
+    "name": "Heineken",
+    "price": 3500,
+    "category": "cerveza",
+    "id": "00125",
+    "description": "",
+    "image": "images/Heineken.webp"
+  },
+  {
+    "name": "Kunstmann Torobayo",
+    "price": 3500,
+    "category": "cerveza",
+    "id": "00126",
+    "description": "",
+    "image": "images/KunstmannTorobayo.webp"
+  },
+  {
+    "name": "Royal Guard",
+    "price": 3500,
+    "category": "cerveza",
+    "id": "00127",
+    "description": "",
+    "image": "images/RoyalGuard.webp"
+  },
+  {
+    "name": "Cusqueña Golden Lager",
+    "price": 4000,
+    "category": "cerveza",
+    "id": "00128",
+    "description": "",
+    "image": "images/CusqueñaGoldenLager.webp"
+  },
+  {
+    "name": "Corona",
+    "price": 3500,
+    "category": "cerveza",
+    "id": "00129",
+    "description": "",
+    "image": "images/Corona.webp"
+  },
+  {
+    "name": "Cusqueña Dark Lager",
+    "price": 4000,
+    "category": "cerveza",
+    "id": "00130",
+    "description": "",
+    "image": "images/CusqueñaDarkLager.webp"
+  },
+  {
+    "name": "Cusqueña Trigo",
+    "price": 4000,
+    "category": "cerveza",
+    "id": "00131",
+    "description": "",
+    "image": "images/CusqueñaTrigo.webp"
+  },
+  {
+    "name": "Kunstmann S/A",
+    "price": 4000,
+    "category": "cerveza",
+    "id": "00132",
+    "description": "",
+    "image": "images/KunstmannSA.webp"
+  },
+  {
+    "name": "Austral Calafate",
+    "price": 4000,
+    "category": "cerveza",
+    "id": "00133",
+    "description": "",
+    "image": "images/AustralCalafate.webp"
+  },
+  {
+    "name": "Sauvignon Blanc - Misiones de Rengo",
+    "price": 8500,
+    "id": "00134",
+    "category": "vino",
+    "description": "",
+    "image": "images/SauvignonBlancMisionesDeRengo.webp"
+  },
+  {
+    "name": "Sauvignon Blanc - Casillero del Diablo",
+    "price": 10900,
+    "id": "00135",
+    "category": "vino",
+    "description": "",
+    "image": "images/SauvignonBlancCasilleroDelDiablo.webp"
+  },
+  {
+    "name": "Sauvignon Blanc - Santa Emiliana",
+    "price": 8500,
+    "id": "00136",
+    "category": "vino",
+    "description": "",
+    "image": "images/SauvignonBlancSantaEmiliana.webp"
+  },
+  {
+    "name": "Chardonnay - Misiones de Rengo",
+    "price": 8500,
+    "id": "00137",
+    "category": "vino",
+    "description": "",
+    "image": "images/ChardonnayMisionesDeRengo.webp"
+  },
+  {
+    "name": "Chardonnay - Casillero del Diablo",
+    "price": 10900,
+    "id": "00138",
+    "category": "vino",
+    "description": "",
+    "image": "images/ChardonnaCasilleroDelDiablo.webp"
+  },
+  {
+    "name": "Carménère - Misiones de Rengo",
+    "price": 8500,
+    "id": "00139",
+    "category": "vino",
+    "description": "",
+    "image": "images/CarmenereMisionesDeRengo.webp"
+  },
+  {
+    "name": "Carménère - Casillero del Diablo",
+    "price": 10900,
+    "id": "00140",
+    "category": "vino",
+    "description": "",
+    "image": "images/CarmenereCasilleroDelDiablo.webp"
+  },
+  {
+    "name": "Merlot - Misiones de Rengo",
+    "price": 8500,
+    "id": "00141",
+    "category": "vino",
+    "description": "",
+    "image": "images/MerlotMisionesDeRengo.webp"
+  },
+  {
+    "name": "Merlot - Casillero del Diablo",
+    "price": 10900,
+    "id": "00142",
+    "category": "vino",
+    "description": "",
+    "image": "images/CasilleroDelDiabloMerlot.webp"
+  },
+  {
+    "name": "Cabernet Sauvignon - Misiones de Rengo",
+    "price": 8500,
+    "id": "00143",
+    "category": "vino",
+    "description": "",
+    "image": "images/CabernetSauvignonMisionesDeRengo.webp"
+  },
+  {
+    "name": "Cabernet Sauvignon - Casillero del Diablo",
+    "price": 10900,
+    "id": "00144",
+    "category": "vino",
+    "description": "",
+    "image": "images/CabernetSauvignonCasilleroDelDiablo.webp"
+  },
+  {
+    "name": "Toro de Piedra Gran Reserva (CS)",
+    "price": 16900,
+    "id": "00145",
+    "category": "vino",
+    "description": "",
+    "image": "images/ToroPiedraGranReserva.webp"
+  },
+  {
+    "name": "Marqués de Casa Concha (SB/CH/CA/CS)",
+    "price": 11900,
+    "id": "00146",
+    "category": "vino",
+    "description": "",
+    "image": "images/MarquesDeCasaConcha.webp"
+  },
+  {
+    "name": "Copa de Vino",
+    "price": 3500,
+    "id": "00147",
+    "category": "vino",
+    "description": "",
+    "image": "images/copaDeVino.webp"
+  }
+]
