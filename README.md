@@ -46,6 +46,7 @@ DB_HOST=localhost
 DB_USER=tu_usuario
 DB_PASSWORD=tu_clave
 DB_NAME=nombre_bd
+JWT_SECRET=tu_clave_secreta
 
 3. Ejecutar el proyecto:
 npm run dev
@@ -73,6 +74,15 @@ POST /api/categories
 PUT /api/categories/:id
 
 DELETE /api/categories/:id
+
+👤 Usuarios
+POST /api/users/register
+
+POST /api/users/login
+
+PUT /api/users/:id/password
+
+DELETE /api/users/:id
 
 🔐 Validaciones implementadas
 Verificación de campos obligatorios
